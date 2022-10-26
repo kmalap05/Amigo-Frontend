@@ -10,10 +10,10 @@ function EmptyChatRoom() {
           alt=""
         ></img>
         <p className="empty-chatroom-mainhead">Start Chatting with Your Amigo🤝</p>
-        <p className="empty-chatroom-subhead">
+        {/* <p className="empty-chatroom-subhead">
           Select an Amigo from the Sidebar and Start conversation.Add Amigos by
           username from the option in the top right corner of the page
-        </p>
+        </p> */}
       </div>
     </div>
   );
